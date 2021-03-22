@@ -1,2 +1,2 @@
-# CinnamonShrine.github.io
-My main webpage
+# CinnamonShrine main webpages
+
